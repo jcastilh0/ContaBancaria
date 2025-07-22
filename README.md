@@ -1,7 +1,7 @@
 # 💰 Sistema de Conta Bancária em Java
 
 ![Java](https://img.shields.io/badge/Java-17+-red?logo=java)
-![Status](https://img.shields.io/badge/status-Em%20desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/status-Finalizado-Verde)
 ![License](https://img.shields.io/badge/license-Educacional-blue)
 
 Este projeto é uma aplicação simples de console desenvolvida em **Java**, que simula um sistema de conta bancária com operações como consulta de saldo, depósito e transferência.
